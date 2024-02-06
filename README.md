@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jnhimel
-- 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently learning Spring Boot, Flutter and Android
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter and Android
 - 📫 How to reach me j.n.himel@gmail.com
 
 <!---
