@@ -129,7 +129,7 @@ Salesforce & distribution apps featuring:
 - 🔒 Built anti-spoofing systems that catch fake GPS like a hawk
 - 🌍 My apps run on 15,000+ devices across multiple countries
 - 🎨 I believe great code is poetry in motion
-- 🍕 Fueled by chai and clean architecture debates
+- 🍕 Fueled by coffee and clean architecture debates
 
 ---
 
