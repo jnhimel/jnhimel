@@ -139,7 +139,7 @@ Salesforce & distribution apps featuring:
 
 *"The best code is the one that solves real problems for real people"*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-9146FF?style=for-the-badge)](your-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-9146FF?style=for-the-badge)](https://github.com/jnhimel)
 [![Open for Collaboration](https://img.shields.io/badge/Status-Open_for_Collaboration-success?style=for-the-badge)](mailto:j.n.himel@gmail.com)
 
 ---
