@@ -110,7 +110,7 @@ Salesforce & distribution apps featuring:
 <div align="left">
 
 ```
-📱 6+ Production Apps Published  |  👥 15K+ Active Users  |  ⭐ 5+ Years Experience
+📱 8+ Production Apps Published  |  👥 150K+ Active Users  |  ⭐ 5+ Years Experience
 ```
 
 </div>
