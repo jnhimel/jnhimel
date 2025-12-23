@@ -16,16 +16,16 @@
 
 ```dart
 class Himel extends Developer {
-  final String role = "Senior Software Engineer @ Sokrio Technologies";
+  final String role = "Software Engineer @ Brain Station 23";
   final int yearsOfExperience = 5;
   final List<String> expertise = ["Flutter", "Android", "Mobile Architecture"];
   
   Map<String, dynamic> getImpact() {
     return {
       'apps_published': 6,
-      'users_reached': '15,000+',
+      'users_reached': '150,000+',
       'platforms': ['iOS', 'Android'],
-      'industries': ['Healthcare', 'Salesforce', 'Distribution'],
+      'industries': ['Fintech', 'Healthtech', 'Salesforce', 'Distribution'],
       'motto': 'Clean code, scalable architecture, real impact'
     };
   }
