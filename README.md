@@ -127,7 +127,7 @@ Salesforce & distribution apps featuring:
 
 - ⚡ I've integrated thermal printers to print in Bengali. Yes, really.
 - 🔒 Built anti-spoofing systems that catch fake GPS like a hawk
-- 🌍 My apps run on 15,000+ devices across multiple countries
+- 🌍 My apps run on 150,000+ devices across multiple countries
 - 🎨 I believe great code is poetry in motion
 - 🍕 Fueled by coffee and clean architecture debates
 
