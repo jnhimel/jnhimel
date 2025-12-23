@@ -22,7 +22,7 @@ class Himel extends Developer {
   
   Map<String, dynamic> getImpact() {
     return {
-      'apps_published': 6,
+      'apps_published': 8,
       'users_reached': '150,000+',
       'platforms': ['iOS', 'Android'],
       'industries': ['Fintech', 'Healthtech', 'Salesforce', 'Distribution'],
